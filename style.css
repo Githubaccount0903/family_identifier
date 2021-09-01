@@ -24,3 +24,13 @@
 .heading_div2{
     font-size: 18px;
 }
+canvas{
+    border: 20px whitesmoke;
+    box-shadow: 5px 5px 18px whitesmoke;
+    border-radius: 20px;
+    margin-top: 200px;
+}
+.result_para{
+    box-shadow: 5px 5px 18px whitesmoke;
+    font-size: 20px;
+}
